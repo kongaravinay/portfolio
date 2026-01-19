@@ -97,11 +97,6 @@ Structured learning pathway from cybersecurity fundamentals to advanced speciali
 
 ---
 
-## 💼 Experience & Career Path
-
-### Previous Roles
-- **Aurora Wine and Liquor** - Operations experience with process management
-
 ### Current Pursuits
 - **Building Cybersecurity Portfolio** - Developing hands-on projects and tools
 - **Exploring SOC Analyst Roles** - Entry-level to mid-level positions
