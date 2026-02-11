@@ -167,5 +167,10 @@ For a detailed resume, project descriptions, and professional accomplishments, p
 
 <div align="center">
   <p>⭐ If you find my projects useful, please consider starring them! ⭐</p>
+
+---
+
+### 📅 Last Updated
+**February 11, 2026** - Portfolio actively maintained and updated regularly.
   <p>Last Updated: January 2026</p>
 </div>
